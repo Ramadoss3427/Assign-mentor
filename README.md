@@ -1,0 +1,5 @@
+1)app.get("/")
+2)app.get("/student /all")
+3)app.get("/mentor /all")
+4)app.post("/mentor/add")
+5)app.post("/student/add")
